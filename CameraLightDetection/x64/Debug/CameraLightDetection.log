@@ -1,0 +1,3 @@
+﻿  ColorReducer.cpp
+C:\Users\Alex\source\repos\CameraLightDetection\CameraLightDetection\ColorReducer.cpp(85): warning C4715: 'ColorReducer::loadImage': not all control paths return a value
+  CameraLightDetection.vcxproj -> C:\Users\Alex\source\repos\CameraLightDetection\x64\Debug\CameraLightDetection.exe
